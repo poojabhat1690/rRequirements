@@ -1,5 +1,5 @@
 
-otstrap:docker  
+Bootstrap:docker  
 From:ubuntu:16.04
 
 %labels
