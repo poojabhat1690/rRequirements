@@ -1,4 +1,6 @@
-BootStrap: docker                                                                                                                                                                  From:ubuntu:latest
+BootStrap: docker
+From:ubuntu:16.04
+
 
 %post
 
